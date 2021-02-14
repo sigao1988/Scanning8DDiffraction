@@ -134,6 +134,8 @@ test/*
 @test/*
 *.mlapp
 *core*
-
+*Core*
+*engine*
+*Engine*
 
 
