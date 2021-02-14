@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Additional
+test/*
++test/*
+@test/*
+*.mlapp
+*core*
+
+
+
